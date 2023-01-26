@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: nmoisesp/reactjs-simple-todolistapp
 spec:
-  type: other
-  lifecycle: unknown
+  type: mobile-app
+  lifecycle: production
   owner: nmoisesp
