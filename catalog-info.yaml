@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: reactjs-simple-todolistapp
+  annotations:
+    github.com/project-slug: nmoisesp/reactjs-simple-todolistapp
+spec:
+  type: other
+  lifecycle: unknown
+  owner: nmoisesp
