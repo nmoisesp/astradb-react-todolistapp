@@ -8,3 +8,4 @@ spec:
   type: mobile-app
   lifecycle: production
   owner: nmoisesp
+  system: examples
